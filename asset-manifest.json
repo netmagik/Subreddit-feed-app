@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Subreddit-feed-app/static/css/main.eddb405c.chunk.css",
+    "main.js": "/Subreddit-feed-app/static/js/main.b4855ee1.chunk.js",
+    "main.js.map": "/Subreddit-feed-app/static/js/main.b4855ee1.chunk.js.map",
+    "runtime-main.js": "/Subreddit-feed-app/static/js/runtime-main.bd3900bc.js",
+    "runtime-main.js.map": "/Subreddit-feed-app/static/js/runtime-main.bd3900bc.js.map",
+    "static/js/2.b726e5b8.chunk.js": "/Subreddit-feed-app/static/js/2.b726e5b8.chunk.js",
+    "static/js/2.b726e5b8.chunk.js.map": "/Subreddit-feed-app/static/js/2.b726e5b8.chunk.js.map",
+    "index.html": "/Subreddit-feed-app/index.html",
+    "static/css/main.eddb405c.chunk.css.map": "/Subreddit-feed-app/static/css/main.eddb405c.chunk.css.map",
+    "static/js/2.b726e5b8.chunk.js.LICENSE.txt": "/Subreddit-feed-app/static/js/2.b726e5b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd3900bc.js",
+    "static/js/2.b726e5b8.chunk.js",
+    "static/css/main.eddb405c.chunk.css",
+    "static/js/main.b4855ee1.chunk.js"
+  ]
+}
